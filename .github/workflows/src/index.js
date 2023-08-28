@@ -1,0 +1,1 @@
+console.log('本地测试jenkins发布')
